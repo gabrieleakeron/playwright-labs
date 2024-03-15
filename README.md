@@ -19,6 +19,14 @@ npm run show-report
 # Running Tests in UI Mode
 npm run test:ui
 
+# Run tests in VS Code
+## Extension
+https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright
+
+## Debug
+
+
+
 # Updating Playwright
 npm install -D @playwright/test@latest
 npx playwright install --with-deps
